@@ -1,0 +1,69 @@
+What is the correct file extension for Python files?
+a) .pt
+b) .pyt
+c) .py
+d) .python
+Correct: c
+
+Which keyword is used to define a function in Python?
+a) func
+b) define
+c) def
+d) function
+Correct: c
+
+What will `print(2 ** 3)` output?
+a) 6
+b) 8
+c) 9
+d) 5
+Correct: b
+
+Which of the following is a Python data type?
+a) string
+b) integer
+c) list
+d) All of the above
+Correct: d
+
+How do you insert comments in Python code?
+a) /* This is a comment */
+b) // This is a comment
+c) # This is a comment
+d) <!-- This is a comment -->
+Correct: c
+
+What does `len("Hello")` return?
+a) 4
+b) 5
+c) 6
+d) Error
+Correct: b
+
+Which of these is used to handle exceptions in Python?
+a) catch
+b) try/except
+c) error
+d) throw
+Correct: b
+
+Which method is used to add an element to a list?
+a) insert()
+b) add()
+c) push()
+d) append()
+Correct: d
+
+What is the output of `type(5.0)`?
+a) int
+b) str
+c) float
+d) double
+Correct: c
+
+What keyword is used to create a class in Python?
+a) define
+b) struct
+c) class
+d) object
+Correct: c

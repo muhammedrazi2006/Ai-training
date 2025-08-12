@@ -1,0 +1,3 @@
+vishal:10
+aman:2
+fiza:10
